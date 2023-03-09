@@ -9,9 +9,26 @@ Overall, a weather app using API can be a useful tool for anyone who wants to st
 - In the following project i have used API for retrieving information of weather in a the current city user is residing in , 
 - when the app is first opened user is asked for permission for location to be precise or approximate 
 
-![mobilelocation](https://user-images.githubusercontent.com/102940747/224039445-690734ab-03b0-4a7d-9cd5-625c67b55256.png)
+![Screenshot 2023-03-09 191051](https://user-images.githubusercontent.com/102940747/224041224-2ac28485-0350-47eb-bbd3-02d99083dbcc.png)
+ 
+
 
 after the following option has selected user is directed to splash screen which is as follows 
 
+![Screenshot 2023-03-09 191440](https://user-images.githubusercontent.com/102940747/224043781-4c842860-7a77-4d84-95a6-cbd9fd1dfecd.png)
 
-![splashscreen](https://user-images.githubusercontent.com/102940747/224039774-112ee86a-e82e-414b-8d2c-ebbb886c90dd.png)
+
+
+and after everything load the final page which contains the information about weather is displayed 
+
+![Screenshot 2023-03-09 191632](https://user-images.githubusercontent.com/102940747/224044642-9acfc821-058c-478a-92bb-f46843957516.png)
+
+- this particular app is a simple and gives a exposure to how to work with api 
+- i have created this app with simple ui
+ 
+- and this application uses
+- working with intent 
+- passing information with activities
+- working with json objects 
+- working with volley library
+- working with location internet

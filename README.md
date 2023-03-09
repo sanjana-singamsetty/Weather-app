@@ -5,3 +5,7 @@
 - Current weather conditions: The app can display current weather conditions, such as temperature, humidity, wind speed, and direction, precipitation, and more.
 - Weather forecast: The app can provide users with a 5-day weather forecast for their location or any other location they search for.
 Overall, a weather app using API can be a useful tool for anyone who wants to stay informed about weather conditions and plan their daily activities accordingly.
+
+- In the following project i have used API for retrieving information of weather in a the current city user is residing in , 
+- when the app is first opened user is asked for permission for location to be precise or approximate 
+-

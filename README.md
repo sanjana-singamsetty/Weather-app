@@ -27,9 +27,10 @@ and after everything load the final page which contains the information about we
 - i have created this app with simple ui
  
 - and this application uses
-- working with intent 
-- passing information with activities
-- working with json objects 
-- working with volley library
-- - uses card veiw for the ui part
-- working with location internet
+     - working with intent 
+     - passing information with activities
+     - working with json objects 
+     - working with volley library
+     - uses card veiw for the ui part
+     -  uses linear layout 
+     - working with location internet

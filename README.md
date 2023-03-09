@@ -8,4 +8,10 @@ Overall, a weather app using API can be a useful tool for anyone who wants to st
 
 - In the following project i have used API for retrieving information of weather in a the current city user is residing in , 
 - when the app is first opened user is asked for permission for location to be precise or approximate 
--
+
+![mobilelocation](https://user-images.githubusercontent.com/102940747/224039445-690734ab-03b0-4a7d-9cd5-625c67b55256.png)
+
+after the following option has selected user is directed to splash screen which is as follows 
+
+
+![splashscreen](https://user-images.githubusercontent.com/102940747/224039774-112ee86a-e82e-414b-8d2c-ebbb886c90dd.png)

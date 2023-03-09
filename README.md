@@ -31,4 +31,5 @@ and after everything load the final page which contains the information about we
 - passing information with activities
 - working with json objects 
 - working with volley library
+- - uses card veiw for the ui part
 - working with location internet

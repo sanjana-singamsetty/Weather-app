@@ -31,6 +31,6 @@ and after everything load the final page which contains the information about we
      - passing information with activities
      - working with json objects 
      - working with volley library
-     - uses card veiw for the ui part
-     -  uses linear layout 
+     - card veiw for the ui part
+     - linear layout 
      - working with location internet
